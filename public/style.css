@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f171e;
+}
+
+img {
+  min-width: 11rem;
+  max-width: 11rem;
+  min-height: 15rem;
+  max-height: 15rem;
+}
+
+.smallMovieTitle {
+  min-width: 15rem;
+  max-width: 15rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
